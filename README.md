@@ -1,4 +1,4 @@
-# 🚀 AgageCodec
+# 🚀 AdageCodec
 ## 🧨 Main features
 - Handle multi-word, word, and subword text.
 - Fast encoding speed 14.5 MiB/s (64902.5 t/s).
