@@ -9,6 +9,7 @@
 - Unable to handle out-of-vocabulary text, so it throws ValueError.
 - Runs in single-threaded only.
 - ✨ Fully written in Python w/o dependency for extra slowness.
+- Works on languages with space only.
 
 ## ⚡️ Performance
 | CPU      | Training | Encoding                 | Decoding                      |
